@@ -10,7 +10,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/chanmxim/COMP3104/issues"
   },
-  "homepage": "https://github.com/chanmxim/COMP3104#readme",
+  "homepage": "https://chanmxim.github.com/COMP3104",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -54,5 +53,4 @@
       "last 1 safari version"
     ]
   }
-
 }
